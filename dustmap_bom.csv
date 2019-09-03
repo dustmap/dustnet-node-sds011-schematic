@@ -1,0 +1,15 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"DESCRIPTION";"DIGI-KEY_PART_NUMBER";"DIGI-KEY_PURCHASE_URL";"MF";"MP";"PACKAGE";"POPULARITY";"PRICE";"SPICEPREFIX";
+"3";"";"LEDCHIP-LED0603";"CHIP-LED0603";"LED_3V3, LED_5V, LED_STAT";"LED";"";"";"";"";"";"";"";"26";"";"";
+"3";"100nF 10V X5R";"C-EUC0603";"C0603";"C201, C301, C401";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"73";"";"C";
+"3";"10k";"R-EU_R0603";"R0603";"R101, R201, R304";"RESISTOR, European symbol";"";"";"";"";"";"";"";"70";"";"R";
+"11";"10µF 10V X5R";"C-EUC0603";"C0603";"C101, C102, C103, C104, C105, C106, C107, C108, C109, C110, C111";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"73";"";"C";
+"3";"1µF 10V X5R";"C-EUC0603";"C0603";"C202, C302, C402";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"73";"";"C";
+"2";"3.9k";"R-EU_R0603";"R0603";"R202, R303";"RESISTOR, European symbol";"";"";"";"";"";"";"";"70";"";"R";
+"2";"4.7k";"R-EU_R0603";"R0603";"R102, R204";"RESISTOR, European symbol";"";"";"";"";"";"";"";"70";"";"R";
+"1";"B5B-ZR";"B5B-ZR";"B5B-ZR";"X1";"JST-ZH Connector";"";"";"";"";"";"";"";"";"";"";
+"1";"BGM13P22BGM13P22";"BGM13P22BGM13P22";"BGM13P22";"U201";"Silicon Labs BGM13P22 BLE-Module";"";"";"";"";"";"";"";"";"";"";
+"1";"MIC5504";"MIC5504";"SOT23-5";"IC101";"";"";"";"";"";"";"";"";"";"";"";
+"1";"MICRO_USB_DX4R005HJ5R2000";"MICRO_USB_DX4R005HJ5R2000";"JAE_DX4R005HJ5R2000";"J101";"RCPT MICRO USB 2.0 B SMT H/D";"";" DX4 series, receptacle, on-board, right-angle standard mount, surface mount ";"670-2674-1-ND";"https://www.digikey.at/product-detail/en/jae-electronics/DX4R005HJ5R2000/670-2674-1-ND/3903234?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol";"JAE Electronics";"DX4R005HJ5R2000";"None";"";"";"";
+"1";"NFE61PT472C1H9L";"NFE61PT472C1H9L";"CAP_NFE61P_6P8X1P6";"LC101";"";"";"";"";"";"";"";"";"";"";"";
+"1";"SHT31-DIS-B";"SHT31-DIS-B";"SON50P250X250X100-9N";"U301";"SHT31 Series 5.5 V 800 µA Surface Mount Humidity and Temperature Sensor";"Unavailable";" SHT31 Series 5.5 V 800 µA Surface Mount Humidity and Temperature Sensor ";"";"";"Sensirion AG";"SHT31-DIS-B";"TDFN-8 Sensirion";"";"None";"";
+"2";"TC2030-NL";"TC2030-NL";"TC2030-NL";"X201, X202";"Tag-Connect In Circuit Programming & Debug Cable with IDC connector,  6 Pin";"";"";"";"";"";"";"";"";"";"";
